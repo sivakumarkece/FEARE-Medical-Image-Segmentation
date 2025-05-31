@@ -72,4 +72,3 @@ For full datasets, please refer to:
 If you use this code in your research, please cite:
 Sivakumar K, Bhoopathy Bagan K, et al. FEARE: Fuzzy Entropy-Driven Adaptive Region Energy for Medical Image Segmentation. (Submitted to The Visual Computer, 2025).
 
-Finalized README.md content for FEARE
