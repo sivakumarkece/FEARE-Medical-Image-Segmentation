@@ -67,8 +67,21 @@ Sample DICOM images and ground truth annotations are provided under the `Dataset
 For full datasets, please refer to:
 - [Sunnybrook Cardiac Data](https://www.cardiacatlas.org/sunnybrook-cardiac-data/)
 
-## 📜 Citation
+## 📖 Citation
 
-If you use this code in your research, please cite:
-Sivakumar K, Bhoopathy Bagan K, et al. FEARE: Fuzzy Entropy-Driven Adaptive Region Energy for Medical Image Segmentation. (Submitted to The Visual Computer, 2025).
+If you use this code, please cite:
 
+Sivakumar K. *FEARE: Fuzzy Entropy-Driven Adaptive Region Energy for Medical Image Segmentation*, v1.0.0, Zenodo, 2025.  
+DOI: [https://doi.org/10.5281/zenodo.15559882](https://doi.org/10.5281/zenodo.15559882)
+
+### BibTeX:
+
+@misc{FEARE2025,
+  author       = {Sivakumar K},
+  title        = {FEARE: Fuzzy Entropy-Driven Adaptive Region Energy for Medical Image Segmentation},
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.15559882},
+  url          = {https://doi.org/10.5281/zenodo.15559882}
+}
